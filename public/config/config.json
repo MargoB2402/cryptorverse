@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB9E7650913E144e82B9f85c09CB971250F3C90Ee",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB9E7650913E144e82B9f85c09CB971250F3C90Ee",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "WannaBeYourCavia NFT",
+  "SYMBOL": "WBYC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 230000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wbycs0",
+  "SHOW_BACKGROUND": true
+}
