@@ -239,7 +239,7 @@ function App() {
 
                     <StyledButton
                     onClick={(e) => {
-                      window.open("https://opensea.io/collection/cryptorman", "_blank");
+                      window.open("https://cryptor.store/products/cryptorman-nft", "_blank");
                     }}
                     style={{
                       margin: "5px",
